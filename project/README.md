@@ -1,8 +1,8 @@
 # HTML CSS JavaScript Practical Programs
 
 Student Name: Podalakuru Bindu Lovely  
-Register Number: __________________  
-Class / Section: __________________  
+Register Number: _______SCDS/2025/1848__________  
+Class / Section: ____6______________  
 Subject: Web Programming / Web Technologies  
 Assignment: HTML, CSS and JavaScript Practical Programs
 
